@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Listen Grey, a Gopher
 - 👀 I’m interested in Go, Gin. 
-- 🌱 I’m currently learning AIGC.
+- 🌱 I’m currently learning Kubernetes.
 - 📫 How to reach me : tinghui561@gmail.com , <a target="_blank" href="https://twitter.com/@listengrey" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 
 ## 🚀 Languages and Tools I Use
